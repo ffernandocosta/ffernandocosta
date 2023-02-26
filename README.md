@@ -1,7 +1,7 @@
 ## Hi there 👋, and welcome.
 
 - 🌱 Software Engineer with experience building responsive web applications using HTML, CSS and JavaScript. I am a curious and creative with a great intuition to     solve problems. I'm always eager to learn new technologies and collaborate with others to bring ideas to life and contribute to meaningfull projects.
-- 😄 Pronouns: she/her/hers
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Love cats, dogs a good movie and pizza!
 
 ---
