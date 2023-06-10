@@ -1,6 +1,6 @@
 ## Hi there 👋, and welcome.
 
-- 🌱 I'm a self-taught Software Engineer with experience building responsive web applications using HTML, CSS and JavaScript. I am a curious and creative with a great intuition to     solve problems. I'm always eager to learn new technologies and collaborate with others to bring ideas to life and contribute to meaningfull projects.
+- 🌱 I'm a self-taught Frontend developer with experience building responsive web applications using HTML, CSS and JavaScript. I am a curious and creative with a great intuition to solve problems. I'm always eager to learn new technologies and collaborate with others to bring ideas to life and contribute to meaningfull projects.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I Love cats, dogs a good movie and pizza!
 
